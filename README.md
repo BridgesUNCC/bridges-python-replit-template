@@ -49,7 +49,7 @@ This difference is not important for many applications, but some, espcially (n)c
 > There is a new Bridges library available but this repository has not yet been updated. How do I get the latest version?
 
 Because Replit uses Python Poetry, its [dependency specification](https://python-poetry.org/docs/dependency-specification/#caret-requirements) format means the Bridges package will be automatically updated every time a new repl is created (at least until Bridges 4.x, which will require a version bump).
-For existing repls, simply run the following command:
+For existing repls, in the Console or Shell tabs (to the right of the editor tab), execute the following command:
 
 ```sh
 poetry update
