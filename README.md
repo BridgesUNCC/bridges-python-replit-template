@@ -52,7 +52,7 @@ Because Replit uses Python Poetry, its [dependency specification](https://python
 For existing repls, in the Console or Shell tabs (to the right of the editor tab), execute the following command:
 
 ```sh
-poetry update
+poetry update # installs all available updates
 ```
 
 > I do not want my assignment to be in a file named `main.py`. What do I do?
